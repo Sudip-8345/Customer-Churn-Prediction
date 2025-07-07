@@ -44,5 +44,8 @@ Once you detect high risk customers, apply
    There mainly three types of customer (resulting from our clustering)
    ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/a595e018c10a7ec8160b6203101d485cb3e314fb/download%20(2).png)
 
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/54247fb485803b722391f4196b8bbfda89b9ecaa/download%20(3).png)
+
+   
    The correlation map between feature are given below :
    
