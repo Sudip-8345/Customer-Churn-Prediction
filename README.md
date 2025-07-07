@@ -39,7 +39,7 @@ Once you detect high risk customers, apply
 - Improve customer service
 
 3. Descriptive EDA
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/f9ec13d3ef9e9f01616403f79bd5553f00e1e703/download%20(1).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/05b78d901b26d73b15a1fab4522a4f7849593c0a/download%20(5).png)
 
    There mainly three types of customer (resulting from our clustering)
    ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/a595e018c10a7ec8160b6203101d485cb3e314fb/download%20(2).png)
@@ -48,4 +48,10 @@ Once you detect high risk customers, apply
 
    
    The correlation map between feature are given below :
-   
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/dfea26f14fb7acc952d668b82b9649346ab0fbae/download%20(4).png)
+
+   The ROC-AUC score of the best model is here :
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/05b78d901b26d73b15a1fab4522a4f7849593c0a/download%20(7).png)
+
+   Feature Imporatances are also shown below:
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/05b78d901b26d73b15a1fab4522a4f7849593c0a/download%20(6).png)
