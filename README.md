@@ -10,7 +10,7 @@ So I have built an app for predicting whether a customer is going to churn or no
 ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/bf009b29fba29b3fc3b5b930324977568efc4206/IMG_20250707_133732.jpg)
 
 1. Introduction
-Dataset : Telco customer churn
+   Dataset : Telco customer churn
 Source : https://www.kaggle.com/blastchar/telco-customer-churn ( IBM Sample dataset)
 Here, IBM provided customer data for Telco industry to predict behaviour of the customers. Main objective is that to analyze customer behavious and develop strategies for customer retention.
 
@@ -40,3 +40,9 @@ Once you detect high risk customers, apply
 
 3. Descriptive EDA
    ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/f9ec13d3ef9e9f01616403f79bd5553f00e1e703/download%20(1).png)
+
+   There mainly three types of customer (resulting from our clustering)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/a595e018c10a7ec8160b6203101d485cb3e314fb/download%20(2).png)
+
+   The correlation map between feature are given below :
+   
