@@ -39,3 +39,4 @@ Once you detect high risk customers, apply
 - Improve customer service
 
 3. Descriptive EDA
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/f9ec13d3ef9e9f01616403f79bd5553f00e1e703/download%20(1).png)
