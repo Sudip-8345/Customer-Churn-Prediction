@@ -7,7 +7,7 @@ Customer churn rate is the KPI to understand leaving customers. Churn rate repre
 For example, If company had 400 customers at the beginning of the month and end with 360, means company's churn rate is 10%, because company lost 10% of the the customer from the base. Companies try to decrease churn rate as 0%.
 
 So I have built an app for predicting whether a customer is going to churn or not.
-![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/bf009b29fba29b3fc3b5b930324977568efc4206/IMG_20250707_133732.jpg)
+![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/IMG_20250707_133732.jpg)
 
 1. Introduction
    Dataset : Telco customer churn
@@ -39,19 +39,19 @@ Once you detect high risk customers, apply
 - Improve customer service
 
 3. Descriptive EDA
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/05b78d901b26d73b15a1fab4522a4f7849593c0a/download%20(5).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/download%20(5).png)
 
    There mainly three types of customer (resulting from our clustering)
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/a595e018c10a7ec8160b6203101d485cb3e314fb/download%20(2).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/download%20(2).png)
 
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/54247fb485803b722391f4196b8bbfda89b9ecaa/download%20(3).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/download%20(3).png)
 
    
    The correlation map between feature are given below :
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/dfea26f14fb7acc952d668b82b9649346ab0fbae/download%20(4).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/download%20(4).png)
 
    The ROC-AUC score of the best model is here :
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/05b78d901b26d73b15a1fab4522a4f7849593c0a/download%20(7).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/download%20(7).png)
 
    Feature Imporatances are also shown below:
-   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/05b78d901b26d73b15a1fab4522a4f7849593c0a/download%20(6).png)
+   ![image alt](https://github.com/Sudip-8345/Customer-Churn-Prediction/blob/c0326f88d34899fdf4197bf285d525b861ac64cd/Images/download%20(6).png)
